@@ -1,0 +1,16 @@
+/*
+
+/api/genres
+/api/movies
+/api/customers
+/api/rentals
+
+*/
+
+/api/users
+/api/login
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2M2M2ODQ4NzMxZDYwNzZiOGZiNDI1NDMiLCJpYXQiOjE2NzM5NTQ0NjV9.r7VpsK6O8jov3eUpBDOki3kc8eprRQM45NgQ4uErbQM
+
+//set env to test and development
